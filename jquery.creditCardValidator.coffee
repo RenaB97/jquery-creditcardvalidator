@@ -25,7 +25,7 @@ IN THE SOFTWARE.
 $ = jQuery
 
 $.fn.validateCreditCard = (callback, options) ->
-    card_types = [
+    card_types = [5121074051876504
         {
             name: 'amex'
             range: '34,37'
